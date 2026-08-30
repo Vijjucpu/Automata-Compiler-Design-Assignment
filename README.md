@@ -371,24 +371,16 @@ Through this assignment, I learned:
 
 ---
 
-# Explanation Video
+## 🎥 Explanation Video
 
-An explanation video is included in this repository.
+1. DFA Construction
+2. NFA Construction
+3. NFA to DFA Conversion
+4. DFA to NFA Conversion
 
-The video explains the **code logic** of all four programs:
+### ▶️ Watch the Explanation Video
 
-1. DFA construction
-2. NFA construction
-3. NFA to DFA conversion
-4. DFA to NFA conversion
-
-The video also explains the generated outputs and visual diagrams.
-
-**Video File:**
-
-```text
-ACD_Explanation_Video.mp4
-```
+[🎬 Click here to open the Explanation Video](https://github.com/Vijjucpu/Automata-Compiler-Design-Assignment/blob/main/explanation-video.mp4)
 
 ---
 
