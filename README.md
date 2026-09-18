@@ -4,7 +4,7 @@
 
 To view the code explanation:
 
-[▶️ Click here to watch the Explanation Video](https://drive.google.com/file/d/1o5dfE-geSqIwZrhi9uhWhZ30E8ektivL/view?usp=sharing)
+https://drive.google.com/file/d/1o5dfE-geSqIwZrhi9uhWhZ30E8ektivL/view?usp=sharing
 
 
 ## DFA, NFA and Automata Conversion Using Python
