@@ -1,5 +1,12 @@
 # Automata-Compiler-Design-Assignment
 
+## 🎥 Explanation Video
+
+To view the code explanation:
+
+[▶️ Click here to watch the Explanation Video](https://drive.google.com/file/d/1o5dfE-geSqIwZrhi9uhWhZ30E8ektivL/view?usp=sharing)
+
+
 ## DFA, NFA and Automata Conversion Using Python
 
 **Name:** G. Vijayalaxmi  
@@ -368,21 +375,6 @@ Through this assignment, I learned:
 * Automata visualization using Python
 * Using Matplotlib for block diagrams
 * Managing a project using Git and GitHub
-
----
-## 🎥 Explanation Video
-
-This video explains the code logic, execution, and output of all four programs:
-
-1. DFA Construction
-2. NFA Construction
-3. NFA to DFA Conversion
-4. DFA to NFA Conversion
-
-### ⬇️ Download the Explanation Video
-
-[🎬 Click here to download the 15-minute Explanation Video](https://github.com/Vijjucpu/Automata-Compiler-Design-Assignment/raw/refs/heads/main/explanation-video.mp4)
-
 ---
 
 # Conclusion
